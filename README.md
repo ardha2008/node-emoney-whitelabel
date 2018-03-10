@@ -20,7 +20,9 @@ const config = {
 }
 const object = new emoney(config)
 ```
-**Note**
+
+### Note
+
 | Key    | Description        | Type   | isMandatory |
 |--------|--------------------|--------|-------------|
 | apikey | authentication key | string | true        |
