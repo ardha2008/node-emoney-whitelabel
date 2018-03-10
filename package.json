@@ -1,0 +1,14 @@
+{
+  "name": "node-emoney-whitelabel",
+  "version": "1.0.0",
+  "description": "eMoney Whitelabel SDK tools for integration development in vascomm emoney whitelabel project so can easily build integration with less step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ardha <ardha2008[at]gmail.com> (http://ardha.web.id)",
+  "license": "MIT",
+  "dependencies": {
+    "unirest": "^0.5.1"
+  }
+}
