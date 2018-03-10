@@ -21,9 +21,9 @@ const config = {
 const object = new emoney(config)
 ```
 **Note**
-|key|Description|Type|isMandatory|
-|---|---|---|---|
-|apikey  |authentication key |string |true |
+| Key    | Description        | Type   | isMandatory |
+|--------|--------------------|--------|-------------|
+| apikey | authentication key | string | true        |
 
 # Usage
 ## Inquiry Data
