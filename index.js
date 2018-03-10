@@ -6,7 +6,7 @@ const account = require('./src/account');
 class EmoneyWhitelabel {
 	constructor(data){
 		if(typeof data.apikey == 'undefined'){
-			throw Error('Cannot empty apikey, please read vascomm emoney whitelabel')
+			throw Error('Unknown apikey, please read official documentation vascomm emoney whitelabel, https://ewl-doc.vascomm.co.id/#authentication')
 		}else{
 			this._authorization = data.apikey;
 		}
