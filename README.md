@@ -22,7 +22,7 @@ const object = new emoney(config)
 ```
 **Note**
 |key|Description|Type|isMandatory|
-|--|--|--|--|
+|---|---|---|---|
 |apikey  |authentication key |string |true |
 
 # Usage
